@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing Page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tavisca-rparkar/Natours.git"
+  },
+  "author": "Rameez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tavisca-rparkar/Natours/issues"
+  },
+  "homepage": "https://github.com/tavisca-rparkar/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
